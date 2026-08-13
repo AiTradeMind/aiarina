@@ -1,0 +1,6 @@
+{
+  "name": "AI ARINA Enterprise OS V3.2",
+  "description": "Enterprise-grade institutional trading platform, AI research, EP01-EP29 architecture, and EP30 Enterprise Certification & Production Readiness (ECPR).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
